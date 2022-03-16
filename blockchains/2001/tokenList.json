@@ -60,6 +60,46 @@
       "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
       "name": "WrappedBTC",
       "symbol": "multiWBTC"
+    },
+    {
+      "address": "0x41eAFC40CD5Cb904157A10158F73fF2824dC1339",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
+      "name": "Dai Stablecoin",
+      "symbol": "nomadDAI"
+    },
+    {
+      "address": "0x5950F9B6EF36f3127Ea66799e64D0ea1f5fdb9D1",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "name": "Wrapped Ether",
+      "symbol": "nomadWETH"
+    },
+    {
+      "address": "0x5a955FDdF055F2dE3281d99718f5f1531744B102",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "nomadUSDC"
+    },
+    {
+      "address": "0xab58DA63DFDd6B97EAaB3C94165Ef6f43d951fb2",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
+      "name": "Tether USD",
+      "symbol": "nomadUSDT"
+    },
+    {
+      "address": "0x48AEB7584BA26D3791f06fBA360dB435B3d7A174",
+      "chainId": 2001,
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
+      "name": "Wrapped BTC",
+      "symbol": "nomadWBTC"
     }
   ]
 }
