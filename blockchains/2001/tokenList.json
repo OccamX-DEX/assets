@@ -64,7 +64,7 @@
     {
       "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
       "chainId": 2001,
-      "decimals": ,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
       "name": "Binance Smart Chain",
       "symbol": "multiBNB"
@@ -72,7 +72,7 @@
     {
       "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
       "chainId": 2001,
-      "decimals": ,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
       "name": "Binance USD",
       "symbol": "multiBUSD"
@@ -121,7 +121,7 @@
     {
       "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
       "chainId": 2001,
-      "decimals": ,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
       "name": "Binance Smart Chain",
       "symbol": "celerBNB"
@@ -129,7 +129,7 @@
     {
       "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
       "chainId": 2001,
-      "decimals": ,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
       "name": "Binance USD",
       "symbol": "celerBUSD"
@@ -137,7 +137,7 @@
     {
       "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
       "chainId": 2001,
-      "decimals": ,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
       "name": "Polygon",
       "symbol": "celerMATIC"
@@ -145,7 +145,7 @@
     {
       "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
       "chainId": 2001,
-      "decimals": ,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
       "name": "Avalanche",
       "symbol": "celerAVAX"
@@ -153,7 +153,7 @@
     {
       "address": "0xc3FEc6F18dDb7583DA572374Ca8d11c6F0590dAe",
       "chainId": 2001,
-      "decimals": ,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
       "name": "Fantom",
       "symbol": "celerFTM"
