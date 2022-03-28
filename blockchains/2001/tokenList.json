@@ -33,7 +33,7 @@
       "address": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
       "chainId": 2001,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14801/large/occfi.PNG",
+      "logoURI": "https://occam-x.fi/occamfi.png",
       "name": "OccamFi",
       "symbol": "multiOCC"
     },
