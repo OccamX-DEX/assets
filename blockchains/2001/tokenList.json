@@ -84,7 +84,7 @@
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
       "name": "Tether USD",
-      "symbol": "celerUSDT"
+      "symbol": "ceUSDT"
     },
     {
       "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
@@ -92,7 +92,7 @@
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
       "name": "USD Coin",
-      "symbol": "celerUSDC"
+      "symbol": "ceUSDC"
     },
     {
       "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
@@ -100,7 +100,7 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
       "name": "Dai Stablecoin",
-      "symbol": "celerDAI"
+      "symbol": "ceDAI"
     },
     {
       "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
@@ -108,7 +108,7 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
       "name": "Wrapped Ether",
-      "symbol": "celerWETH"
+      "symbol": "ceWETH"
     },
     {
       "address": "0x8d50a024B2F5593605d3cE8183Ca8969226Fcbf8",
@@ -116,7 +116,7 @@
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
       "name": "Wrapped BTC",
-      "symbol": "celerWBTC"
+      "symbol": "ceWBTC"
     },
     {
       "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
@@ -124,7 +124,7 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
       "name": "Binance Smart Chain",
-      "symbol": "celerBNB"
+      "symbol": "ceBNB"
     },
     {
       "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
@@ -132,7 +132,7 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png",
       "name": "Binance USD",
-      "symbol": "celerBUSD"
+      "symbol": "ceBUSD"
     },
     {
       "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
@@ -140,7 +140,7 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
       "name": "Polygon",
-      "symbol": "celerMATIC"
+      "symbol": "ceMATIC"
     },
     {
       "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
@@ -148,7 +148,7 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
       "name": "Avalanche",
-      "symbol": "celerAVAX"
+      "symbol": "ceAVAX"
     },
     {
       "address": "0xc3FEc6F18dDb7583DA572374Ca8d11c6F0590dAe",
@@ -156,7 +156,7 @@
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
       "name": "Fantom",
-      "symbol": "celerFTM"
+      "symbol": "ceFTM"
     },
     
     {
@@ -223,6 +223,14 @@
       "logoURI": "https://app.occam-x.fi/img/tokens/wada.svg",
       "name": "Wrapped ADA",
       "symbol": "wADA"
+    }
+    {
+      "address": "0x8c008BBA2Dd56b99f4A6aB276bE3a478cB075F0C",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://img.api.cryptorank.io/coins/60x60.blueshift1649250909197.png",
+      "name": "Blueshift",
+      "symbol": "BLUES"
     }
   ]
 }
