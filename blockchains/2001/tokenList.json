@@ -223,7 +223,7 @@
       "logoURI": "https://app.occam-x.fi/img/tokens/wada.svg",
       "name": "Wrapped ADA",
       "symbol": "wADA"
-    }
+    },
     {
       "address": "0x8c008BBA2Dd56b99f4A6aB276bE3a478cB075F0C",
       "chainId": 2001,
