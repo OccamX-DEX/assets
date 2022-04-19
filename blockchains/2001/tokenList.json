@@ -231,6 +231,30 @@
       "logoURI": "https://img.api.cryptorank.io/coins/60x60.blueshift1649250909197.png",
       "name": "Blueshift",
       "symbol": "BLUES"
+    },
+    {
+      "address": "0x4D5C63c07463EFa5bb26EE0A6D8C39dd0e3DaBD9",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/13769.png",
+      "name": "World Mobile Token",
+      "symbol": "WMT"
+    },
+    {
+      "address": "0x386e685B5cBAa7bC06e3Dd2eEcDC56105076e4Fa",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17275.png",
+      "name": "MuesliSwap",
+      "symbol": "MILK"
+    },
+    {
+      "address": "0x13fe17701861b769d58f44c2cEBd918886d3D205",
+      "chainId": 2001,
+      "decimals": 0,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png",
+      "name": "Hosky Token",
+      "symbol": "HOSKY"
     }
   ]
 }
