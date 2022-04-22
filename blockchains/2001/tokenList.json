@@ -249,14 +249,6 @@
       "symbol": "MILK"
     },
     {
-      "address": "0x13fe17701861b769d58f44c2cEBd918886d3D205",
-      "chainId": 2001,
-      "decimals": 0,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png",
-      "name": "Hosky Token",
-      "symbol": "HOSKY"
-    },
-    {
       "address": "0x9B7c74Aa737FE278795fAB2Ad62dEFDbBAedFBCA",
       "chainId": 2001,
       "decimals": 18,
@@ -271,6 +263,14 @@
       "logoURI": "https://occam-x.fi/RSHARE.png",
       "name": "Ravelin Share",
       "symbol": "RSHARE"
+    },
+    {
+      "address": "0x13fe17701861b769d58f44c2cEBd918886d3D205",
+      "chainId": 2001,
+      "decimals": 0,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png",
+      "name": "Hosky Token",
+      "symbol": "HOSKY"
     }
   ]
 }
