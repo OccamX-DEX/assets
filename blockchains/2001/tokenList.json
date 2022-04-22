@@ -255,6 +255,22 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png",
       "name": "Hosky Token",
       "symbol": "HOSKY"
+    },
+    {
+      "address": "0x9B7c74Aa737FE278795fAB2Ad62dEFDbBAedFBCA",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occam-x.fi/RAV.png",
+      "name": "Ravelin",
+      "symbol": "RAV"
+    },
+    {
+      "address": "0xD81E377E9cd5093CE752366758207Fc61317fC70",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occam-x.fi/RSHARE.png",
+      "name": "Ravelin Share",
+      "symbol": "RSHARE"
     }
   ]
 }
