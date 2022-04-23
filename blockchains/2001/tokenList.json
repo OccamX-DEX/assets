@@ -271,6 +271,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16755.png",
       "name": "Hosky Token",
       "symbol": "HOSKY"
+    },
+    {
+      "address": "0x658b95858457549cFC0af513b1b902aB0F6E6946",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/11078.png",
+      "name": "Iagon",
+      "symbol": "IAG"
     }
   ]
 }
