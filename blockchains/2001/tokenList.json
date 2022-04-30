@@ -287,6 +287,14 @@
       "logoURI": "https://www.milkyswap.exchange/images/tokens/milky-square.png",
       "name": "MilkySwap",
       "symbol": "MILKY"
+    },
+    {
+      "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/10238.png",
+      "name": "Mimatic",
+      "symbol": "MAI"
     }
   ]
 }
