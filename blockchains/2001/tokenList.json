@@ -217,6 +217,15 @@
     },
     
     {
+      "address": "0x42110A5133F91B49E32B671Db86E2C44Edc13832",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "sUSDC"
+    },
+    
+    {
       "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
       "chainId": 2001,
       "decimals": 18,
@@ -320,6 +329,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/9047.png",
       "name": "CARD.STARTER",
       "symbol": "CARDS"
+    },
+    {
+      "address": "0xedd4D7DAa6bf8746997CEbbF974a60B838757601",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://app.symbiosis.finance/ef6b44f21dd6981f02f1.png",
+      "name": "Symbiosis",
+      "symbol": "SIS"
     }
   ]
 }
