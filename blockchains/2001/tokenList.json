@@ -261,7 +261,7 @@
       "address": "0x9B7c74Aa737FE278795fAB2Ad62dEFDbBAedFBCA",
       "chainId": 2001,
       "decimals": 18,
-      "logoURI": "https://occam-x.fi/RAV.png",
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/RavLogoTBG.png",
       "name": "Ravelin",
       "symbol": "RAV"
     },
@@ -269,7 +269,7 @@
       "address": "0xD81E377E9cd5093CE752366758207Fc61317fC70",
       "chainId": 2001,
       "decimals": 18,
-      "logoURI": "https://occam-x.fi/RSHARE.png",
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/RShareLogoTBG.png",
       "name": "Ravelin Share",
       "symbol": "RSHARE"
     },
