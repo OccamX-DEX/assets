@@ -262,7 +262,7 @@
       "chainId": 2001,
       "decimals": 18,
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/RavLogoTBG.png",
-      "name": "Ravelin",
+      "name": "Ravcube",
       "symbol": "RAV"
     },
     {
@@ -270,7 +270,7 @@
       "chainId": 2001,
       "decimals": 18,
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/RShareLogoTBG.png",
-      "name": "Ravelin Share",
+      "name": "Ravcube Share",
       "symbol": "RSHARE"
     },
     {
