@@ -277,7 +277,7 @@
       "address": "0xedd4D7DAa6bf8746997CEbbF974a60B838757601",
       "chainId": 2001,
       "decimals": 18,
-      "logoURI": "https://app.symbiosis.finance/ef6b44f21dd6981f02f1.png",
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/624b0bd2f182dc1c51b97250_logo+green-solo.png",
       "name": "Symbiosis",
       "symbol": "SIS"
     }
