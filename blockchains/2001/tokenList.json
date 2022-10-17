@@ -280,6 +280,14 @@
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/624b0bd2f182dc1c51b97250_logo+green-solo.png",
       "name": "Symbiosis",
       "symbol": "SIS"
+    },
+    {
+      "address": "0xa325ad468df2676f195a623899953c192e354ae8",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/logo-light2x+(1).png",
+      "name": "TRUST Pool Governance Token",
+      "symbol": "TPGX"
     }
   ]
 }
