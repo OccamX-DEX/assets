@@ -1,5 +1,5 @@
 {
-  "name": "Occamx Mainnet",
+  "name": "OccamX Mainnet",
   "timestamp": "2022-03-16T00:00:00+00:00",
   "version": {
     "major": 1,
@@ -288,6 +288,14 @@
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/logo-light2x+(1).png",
       "name": "TRUST Pool Governance Token",
       "symbol": "TPGX"
+    },
+    {
+      "address": "0xf0c73e6287867baa4f865a17ee711ec989c78ac0",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/OCX.svg",
+      "name": "OccamX Protocol Token",
+      "symbol": "OCX"
     }
   ]
 }
