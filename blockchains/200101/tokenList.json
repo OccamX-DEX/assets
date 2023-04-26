@@ -1,0 +1,45 @@
+{
+  "name": "occamx",
+  "timestamp": "2021-12-15T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["occamx", "default", "list"],
+  "logoURI": "",
+  "tokens": [
+    {
+      "chainId": 200101,
+      "address": "0xB5a2fDA777EAeED6A665742aCAefD7417140618e",
+      "name": "Nunet",
+      "symbol": "NTX",
+      "decimals": 18,
+      "logoURI": "/img/unknown.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0xd8717258bC00Ba82041394981B0290D7281122de",
+      "name": "Cornucopias",
+      "symbol": "COPI",
+      "decimals": 8,
+      "logoURI": "/img/unknown.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x4AD6B6B9a9C817C544D398d297dffbC77d64683B",
+      "name": "Ardana",
+      "symbol": "DANA",
+      "decimals": 18,
+      "logoURI": "/img/unknown.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x523B7f675b4195ade5FFA3Bc9fF33618Ed9cf329",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/USD_Coin_icon.png"
+    }
+  ]
+}
