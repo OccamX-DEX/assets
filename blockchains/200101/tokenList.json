@@ -36,10 +36,43 @@
     {
       "chainId": 200101,
       "address": "0x523B7f675b4195ade5FFA3Bc9fF33618Ed9cf329",
-      "name": "USD Coin",
-      "symbol": "USDC",
+      "name": "USD Coin for CURL testing",
+      "symbol": "xUSDC",
       "decimals": 18,
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x7EA7730f2B231EE745c00122CF713a89c2C41fC8",
+      "name": "Tether USD for CURL testing",
+      "symbol": "xUSDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x38093EF3CC0Eb9B1F59B1B3e80B4EF364f39c35e",
+      "name": "wBTC for CURL testing",
+      "symbol": "xWBTC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x9DC7bB5cfb8C9f1E7780E1C8d12f3Da0013549b1",
+      "name": "wETH for CURL testing",
+      "symbol": "xWETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x52ab4E6039B7dee6aF3D49b2De588b57C6084d13",
+      "name": "wETH for CURL testing",
+      "symbol": "xWETH2",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
     }
+    
   ]
 }
