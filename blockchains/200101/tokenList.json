@@ -10,6 +10,14 @@
   "logoURI": "",
   "tokens": [
     {
+      "address": "0x01bbbb9c97fc43e3393e860fc8bbead47b6960db",
+      "chainId": 2001,
+      "decimals": 18,
+      "logoURI": "https://app.occam-x.fi/img/tokens/wada.svg",
+      "name": "Wrapped ADA",
+      "symbol": "wADA"
+    },
+    {
       "chainId": 200101,
       "address": "0xB5a2fDA777EAeED6A665742aCAefD7417140618e",
       "name": "Nunet",
