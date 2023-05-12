@@ -11,7 +11,7 @@
   "tokens": [
     {
       "address": "0x01bbbb9c97fc43e3393e860fc8bbead47b6960db",
-      "chainId": 2001,
+      "chainId": 200101,
       "decimals": 18,
       "logoURI": "https://app.occam-x.fi/img/tokens/wada.svg",
       "name": "Wrapped ADA",
