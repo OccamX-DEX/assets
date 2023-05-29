@@ -304,6 +304,22 @@
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/deFIRE_mark+(color).svg",
       "name": "DeFire Token",
       "symbol": "CWAP"
+    },
+    {
+      "address": "0xd90f0f3332d8fccd5f74f0830f05cfca46c31ddf",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/mc1DRC.png",
+      "name": "Djed ReserveCoin",
+      "symbol": "mDRC"
+    },
+    {
+      "address": "0xbfb54440448e6b702fa2a1d7033cd5fb0d9c5a27",
+      "chainId": 2001,
+      "decimals": 6,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/mc1DSC.png",
+      "name": "Djed Dollar",
+      "symbol": "mDSC"
     }
   ]
 }
