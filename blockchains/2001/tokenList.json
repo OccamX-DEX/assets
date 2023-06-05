@@ -311,7 +311,7 @@
       "decimals": 6,
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/mc1DRC.png",
       "name": "Djed ReserveCoin",
-      "symbol": "mDRC"
+      "symbol": "MOR"
     },
     {
       "address": "0xbfb54440448e6b702fa2a1d7033cd5fb0d9c5a27",
@@ -319,7 +319,7 @@
       "decimals": 6,
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/mc1DSC.png",
       "name": "Djed Dollar",
-      "symbol": "mDSC"
+      "symbol": "MOD"
     }
   ]
 }
