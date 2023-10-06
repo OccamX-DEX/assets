@@ -30,16 +30,16 @@
       "chainId": 14853,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23806.png",
-      "name": "WeHMND",
-      "symbol": "Wrapped eHMND"
+      "name": "Wrapped eHMND",
+      "symbol": "WeHMND"
     },
     {
       "address": "0x6d1BDAf843D664D92583e0FD7E3B33e29d735C35",
       "chainId": 14853,
       "decimals": 18,
       "logoURI": "",
-      "name": "wALGO",
-      "symbol": "Wrapped Algo"
+      "name": "Wrapped Algo",
+      "symbol": "wALGO"
     }
   ]
 }
