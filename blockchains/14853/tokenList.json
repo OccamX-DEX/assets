@@ -1,0 +1,45 @@
+{
+  "name": "Humanode Testnet 5 Israfel",
+  "timestamp": "2023-10-6T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["occamx", "default", "list"],
+  "logoURI": "",
+  "tokens": [
+    {
+      "address": "0xD8CC8Eda9a3fF44CAc53a146098D864D92b36356",
+      "chainId": 14853,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/OCX.svg",
+      "name": "OccamX Protocol Token",
+      "symbol": "OCX"
+    },
+    {
+      "address": "0xdE46FDE8eA0db9A05E7eb9d3B5724e59475DC658",
+      "chainId": 14853,
+      "decimals": 18,
+      "logoURI": "",
+      "name": "Gold",
+      "symbol": "GLD"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000802",
+      "chainId": 14853,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23806.png",
+      "name": "WeHMND",
+      "symbol": "Wrapped eHMND"
+    },
+    {
+      "address": "0x6d1BDAf843D664D92583e0FD7E3B33e29d735C35",
+      "chainId": 14853,
+      "decimals": 18,
+      "logoURI": "",
+      "name": "wALGO",
+      "symbol": "Wrapped Algo"
+    }
+  ]
+}
