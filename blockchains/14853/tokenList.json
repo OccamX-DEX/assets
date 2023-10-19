@@ -21,7 +21,7 @@
       "address": "0xdE46FDE8eA0db9A05E7eb9d3B5724e59475DC658",
       "chainId": 14853,
       "decimals": 18,
-      "logoURI": "",
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/GLD.png",
       "name": "Gold",
       "symbol": "GLD"
     },
