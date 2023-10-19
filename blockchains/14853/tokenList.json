@@ -30,8 +30,8 @@
       "chainId": 14853,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23806.png",
-      "name": "Wrapped eHMND",
-      "symbol": "WeHMND"
+      "name": "eHMND",
+      "symbol": "eHMND"
     }
   ]
 }
