@@ -32,6 +32,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23806.png",
       "name": "eHMND",
       "symbol": "eHMND"
+    },
+    {
+      "address": "0x34e99Be9dEFa90351B91532A517A593D34D2aBac",
+      "chainId": 5234,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/17480.png",
+      "name": "ChainPort Token",
+      "symbol": "PORTX"
     }
   ]
 }
