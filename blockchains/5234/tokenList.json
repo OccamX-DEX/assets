@@ -10,7 +10,7 @@
   "logoURI": "",
   "tokens": [
     {
-      "address": "0x33e5b3e24501774598367bc0832b52787ac39ca5",
+      "address": "0x33E5b3e24501774598367bc0832B52787aC39Ca5",
       "chainId": 5234,
       "decimals": 6,
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/USD_Coin_icon.png",
@@ -18,7 +18,7 @@
       "symbol": "USDC"
     },
     {
-      "address": "0x37c57a89812a0d492aeed7691f1610ca0a8f74a1",
+      "address": "0x37C57a89812a0D492AeEd7691F1610CA0a8f74A1",
       "chainId": 5234,
       "decimals": 18,
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/OCX.svg",
