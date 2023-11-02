@@ -1,0 +1,29 @@
+{
+  "name": "Humanode Testnet 5 Israfel",
+  "timestamp": "2023-10-6T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": ["occamx", "default", "list"],
+  "logoURI": "",
+  "tokens": [
+    {
+      "address": "0x33e5b3e24501774598367bc0832b52787ac39ca5",
+      "chainId": 5234,
+      "decimals": 6,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/USD_Coin_icon.png",
+      "name": "USD Coin",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x37c57a89812a0d492aeed7691f1610ca0a8f74a1",
+      "chainId": 5234,
+      "decimals": 18,
+      "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/OCX.svg",
+      "name": "OccamX Protocol Token",
+      "symbol": "OCX"
+    }
+  ]
+}
