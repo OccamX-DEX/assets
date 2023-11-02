@@ -1,12 +1,12 @@
 {
-  "name": "Humanode Testnet 5 Israfel",
-  "timestamp": "2023-10-6T00:00:00+00:00",
+  "name": "Humanode mainnet",
+  "timestamp": "2023-11-2T00:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
-  "keywords": ["occamx", "default", "list"],
+  "keywords": ["occamx", "default", "list", "humanode"],
   "logoURI": "",
   "tokens": [
     {
