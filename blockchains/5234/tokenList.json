@@ -24,6 +24,14 @@
       "logoURI": "https://occamx-icons-bucket.s3.eu-central-1.amazonaws.com/icons/OCX.svg",
       "name": "OccamX Protocol Token",
       "symbol": "OCX"
+    },
+    {
+      "address": "0x0000000000000000000000000000000000000802",
+      "chainId": 5234,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/23806.png",
+      "name": "eHMND",
+      "symbol": "eHMND"
     }
   ]
 }
