@@ -33,7 +33,7 @@
       "address": "0x461d52769884ca6235b685ef2040f47d30c94eb5",
       "chainId": 2001,
       "decimals": 18,
-      "logoURI": "https://occam-x.fi/occamfi.png",
+      "logoURI": "https://occam-razer.s3.eu-central-1.amazonaws.com/occamfi.png",
       "name": "OccamFi",
       "symbol": "multiOCC"
     },
